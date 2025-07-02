@@ -50,7 +50,7 @@
             </tr>
         </thead>
         <tbody>
-        <!-- Hier sollen Produkte dynamisch geladen werden -->
+        <!-- Hier werden Produkte dynamisch geladen -->
         <?php
         // Löschen
         if (isset($_GET['delete'])) {
